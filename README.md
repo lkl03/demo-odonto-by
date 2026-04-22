@@ -1,2 +1,7 @@
-# demo-odonto-by
-Demo web para Odonto-by — diseñada por eterlab.
+# Odonto-by
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
